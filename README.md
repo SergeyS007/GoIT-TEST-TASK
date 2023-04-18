@@ -1,4 +1,5 @@
-# GoIT-TEST-TASK
+# ABOUT
+## GoIT-TEST-TASK
 
 - The test task is completed according to the terms of reference.
 - Routing of two pages: Home and Tweets is implemented. After clicking the [Go to tweets] button a user is redirected to the Tweets page. After clicking the [Back to Home] button a user is redirected to the Home page.
